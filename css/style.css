@@ -86,3 +86,9 @@
         left: 15px;
     }
 
+
+.mycenter{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
